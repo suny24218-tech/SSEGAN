@@ -1,0 +1,6 @@
+*.pth
+*.pth
+.idea/
+checkpoint/
+data/
+*.pth
